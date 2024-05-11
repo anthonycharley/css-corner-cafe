@@ -1,0 +1,19 @@
+{
+  "name": "coffee-shop-assignment",
+  "version": "1.0.0",
+  "description": "Fictional Coffee Shop",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel --open",
+    "build": "parcel build"
+  },
+  "author": "Anthony Charley",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
